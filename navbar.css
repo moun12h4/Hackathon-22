@@ -1,0 +1,22 @@
+.navmenu{
+    background-color: peachpuff;
+    padding: 0px 1px;
+    font-size: 20px;
+}
+.item{
+    color: aquamarine  ;
+    text-decoration: none;
+    padding: 5px 10px;
+    float: left;
+}
+.tab{
+    width: 100%;
+}
+.img{
+    width: 80px;
+    height: 70px;
+}
+.image{
+    width: 5px;
+    height: 2px;
+}
